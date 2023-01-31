@@ -1,0 +1,12 @@
+INDEX VERSION 1.131+/home/aodsvall/programmering/TDDD04/tddd04-2022-1-adaod351-jakah189/lab2/insurancewebapp/.metadata/.plugins/org.eclipse.jdt.core
+3468984826.index
+2723555259.index
+1865797976.index
+3959470942.index
+3367432921.index
+3570963911.index
+3755707337.index
+845030781.index
+1383698070.index
+646308851.index
+2522299880.index
